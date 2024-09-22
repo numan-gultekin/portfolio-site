@@ -36,14 +36,12 @@ nav{
 }
 
 .project-grid{
-    width: 100vw;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
 .project{
-    width: 100%;
     aspect-ratio: 1;
     background-color: rgb(203, 203, 203);
 
