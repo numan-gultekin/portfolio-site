@@ -71,13 +71,14 @@ nav{
 }
 
 .project-one{
-    background-image: url("./assets/1.GoldenTable/GoldenTable1.JPG");
+    background-image: url("./assets/images/goldenTable/goldenTableOne.jpg");
 }
 
 .project-two{
-    background-image: url("./assets/2.CresentLamp/CresentLamp5.jpeg");
+    background-image: url("./assets/images/cresentLamp/cresentLampOne.jpg");
 }
 
 .project-three{
-    background-image: url("./assets/3.CastleUnit/CastleUnit4.jpeg");
+    background-image: url("./assets/images/castleUnit/castleUnitOne.jpg");
 }
+
