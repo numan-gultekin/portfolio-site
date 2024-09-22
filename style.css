@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    padding: 20px 30px;
+    padding: 20px 50px;
 }
 
 h1{
@@ -102,12 +102,10 @@ nav{
 
 }
 
-
-
 .project-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 50px;
 }
 
 .project{
