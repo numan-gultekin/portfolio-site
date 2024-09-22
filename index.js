@@ -129,6 +129,173 @@ $(document).ready(function () {
         "./assets/images/semiCresent/semiCresentSeven.jpg",
       ],
     },
+    "project-twelve": {
+      title: "FOX BOARD",
+      images: [
+        "./assets/images/foxBoard/foxBoardOne.jpg", // Display image
+        "./assets/images/foxBoard/foxBoardTwo.jpg",
+        "./assets/images/foxBoard/foxBoardThree.jpg",
+        "./assets/images/foxBoard/foxBoardFour.jpg",
+        "./assets/images/foxBoard/foxBoardFive.jpg",
+        "./assets/images/foxBoard/foxBoardSix.jpg",
+      ],
+    },
+    "project-thirteen": {
+      title: "MECHANICAL HEART",
+      images: [
+        "./assets/images/mechanicalHeart/mechanicalHeartOne.jpg", // Display image
+        "./assets/images/mechanicalHeart/mechanicalHeartTwo.jpg",
+        "./assets/images/mechanicalHeart/mechanicalHeartThree.jpg",
+        "./assets/images/mechanicalHeart/mechanicalHeartFour.jpg",
+      ],
+    },
+    "project-fourteen": {
+      title: "UNCLE STOOL",
+      images: [
+        "./assets/images/uncleStool/uncleStoolOne.jpg", // Display image
+        "./assets/images/uncleStool/uncleStoolTwo.jpg",
+        "./assets/images/uncleStool/uncleStoolThree.jpg",
+      ],
+    },
+    "project-fifteen": {
+      title: "STAB SHARPENER",
+      images: [
+        "./assets/images/stabSharpener/stabSharpenerOne.jpg", // Display image
+        "./assets/images/stabSharpener/stabSharpenerTwo.jpg",
+        "./assets/images/stabSharpener/stabSharpenerThree.jpg",
+        "./assets/images/stabSharpener/stabSharpenerFour.jpg",
+      ],
+    },
+    "project-sixteen": {
+      title: "HAND HANGER",
+      images: [
+        "./assets/images/handHanger/handHangerOne.jpg", // Display image
+        "./assets/images/handHanger/handHangerTwo.jpg",
+        "./assets/images/handHanger/handHangerThree.jpg",
+        "./assets/images/handHanger/handHangerFour.jpg",
+      ],
+    },
+    "project-seventeen": {
+      title: "SMOKEY DRAGON",
+      images: [
+        "./assets/images/smokeyDragon/smokeyDragonOne.jpg", // Display image
+        "./assets/images/smokeyDragon/smokeyDragonTwo.jpg",
+        "./assets/images/smokeyDragon/smokeyDragonThree.jpg",
+        "./assets/images/smokeyDragon/smokeyDragonFour.jpg",
+        "./assets/images/smokeyDragon/smokeyDragonFive.jpg",
+        "./assets/images/smokeyDragon/smokeyDragonSix.jpg",
+      ],
+    },
+    "project-eighteen": {
+      title: "FINGER BOARD",
+      images: [
+        "./assets/images/fingerBoard/fingerBoardOne.jpg", // Display image
+        "./assets/images/fingerBoard/fingerBoardTwo.jpg",
+        "./assets/images/fingerBoard/fingerBoardThree.jpg",
+        "./assets/images/fingerBoard/fingerBoardFour.jpg",
+      ],
+    },
+    "project-nineteen": {
+      title: "CRASHPAD",
+      images: [
+        "./assets/images/crashPad/crashPadOne.jpg", // Display image
+        "./assets/images/crashPad/crashPadTwo.jpg",
+        "./assets/images/crashPad/crashPadThree.jpg",
+        "./assets/images/crashPad/crashPadFour.jpg",
+        "./assets/images/crashPad/crashPadFive.jpg",
+        "./assets/images/crashPad/crashPadSix.jpg",
+      ],
+    },
+    "project-twenty": {
+      title: "ROCOCO CREATURE",
+      images: [
+        "./assets/images/rococoCreature/rococoCreatureOne.jpg", // Display image
+        "./assets/images/rococoCreature/rococoCreatureTwo.jpg",
+        "./assets/images/rococoCreature/rococoCreatureThree.jpg",
+        "./assets/images/rococoCreature/rococoCreatureFour.jpg",
+        "./assets/images/rococoCreature/rococoCreatureFive.jpg",
+        "./assets/images/rococoCreature/rococoCreatureSix.jpg",
+        "./assets/images/rococoCreature/rococoCreatureSeven.jpg",
+        "./assets/images/rococoCreature/rococoCreatureEight.jpg",
+        "./assets/images/rococoCreature/rococoCreatureNine.jpg",
+        "./assets/images/rococoCreature/rococoCreatureTen.jpg",
+        "./assets/images/rococoCreature/rococoCreatureEleven.jpg",
+        "./assets/images/rococoCreature/rococoCreatureTwelve.jpg",
+        "./assets/images/rococoCreature/rococoCreatureThirteen.jpg",
+        "./assets/images/rococoCreature/rococoCreatureFourteen.jpg",
+      ],
+    },
+    "project-twentyone": {
+      title: "CANDLE HOLDER",
+      images: [
+        "./assets/images/candleHolder/candleHolderOne.jpg", // Display image
+        "./assets/images/candleHolder/candleHolderTwo.jpg",
+        "./assets/images/candleHolder/candleHolderThree.jpg",
+        "./assets/images/candleHolder/candleHolderFour.jpg",
+        "./assets/images/candleHolder/candleHolderFive.jpg",
+      ],
+    },
+    "project-twentytwo": {
+      title: "HAND POT",
+      images: [
+        "./assets/images/handPot/handPotOne.jpg", // Display image
+        "./assets/images/handPot/handPotTwo.jpg",
+        "./assets/images/handPot/handPotThree.jpg",
+        "./assets/images/handPot/handPotFour.jpg",
+        "./assets/images/handPot/handPotFive.jpg",
+        "./assets/images/handPot/handPotSix.jpg",
+      ],
+    },
+    "project-twentythree": {
+      title: "BLUE BREAKFAST",
+      images: [
+        "./assets/images/blueBreakfast/blueBreakfastOne.jpg", // Display image
+        "./assets/images/blueBreakfast/blueBreakfastTwo.jpg",
+        "./assets/images/blueBreakfast/blueBreakfastThree.jpg",
+        "./assets/images/blueBreakfast/blueBreakfastFour.jpg",
+        "./assets/images/blueBreakfast/blueBreakfastFive.jpg",
+      ],
+    },
+    "project-twentyfour": {
+      title: "WALNUT PLATES",
+      images: [
+        "./assets/images/walnutPlates/walnutPlatesOne.jpg", // Display image
+        "./assets/images/walnutPlates/walnutPlatesTwo.jpg",
+        "./assets/images/walnutPlates/walnutPlatesThree.jpg",
+        "./assets/images/walnutPlates/walnutPlatesFour.jpg",
+      ],
+    },
+    "project-twentyfive": {
+      title: "HANDLE SERIES",
+      images: [
+        "./assets/images/handleSeries/handleSeriesOne.jpg", // Display image
+        "./assets/images/handleSeries/handleSeriesTwo.jpg",
+        "./assets/images/handleSeries/handleSeriesThree.jpg",
+        "./assets/images/handleSeries/handleSeriesFour.jpg",
+        "./assets/images/handleSeries/handleSeriesFive.jpg",
+        "./assets/images/handleSeries/handleSeriesSix.jpg",
+        "./assets/images/handleSeries/handleSeriesSeven.jpg",
+        "./assets/images/handleSeries/handleSeriesEight.jpg",
+        "./assets/images/handleSeries/handleSeriesNine.jpg",
+      ],
+    },
+    "project-twentysix": {
+      title: "CROISSANT CHAIR",
+      images: [
+        "./assets/images/croissantChair/croissantChairOne.jpg", // Display image
+        "./assets/images/croissantChair/croissantChairTwo.jpg",
+        "./assets/images/croissantChair/croissantChairThree.jpg",
+        "./assets/images/croissantChair/croissantChairFour.jpg",
+        "./assets/images/croissantChair/croissantChairFive.jpg",
+        "./assets/images/croissantChair/croissantChairSix.jpg",
+        "./assets/images/croissantChair/croissantChairSeven.jpg",
+        "./assets/images/croissantChair/croissantChairEight.jpg",
+        "./assets/images/croissantChair/croissantChairNine.jpg",
+        "./assets/images/croissantChair/croissantChairTen.jpg",
+        "./assets/images/croissantChair/croissantChairEleven.jpg",
+        "./assets/images/croissantChair/croissantChairTwelve.jpg",
+      ],
+    },
     // Add more projects here
   };
 
