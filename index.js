@@ -117,6 +117,18 @@ $(document).ready(function () {
         "./assets/images/stairStool/stairStoolFive.jpg",
       ],
     },
+    "project-eleven": {
+      title: "SEMI CRESENT ",
+      images: [
+        "./assets/images/semiCresent/semiCresentOne.jpg", // Display image
+        "./assets/images/semiCresent/semiCresentTwo.jpg",
+        "./assets/images/semiCresent/semiCresentThree.jpg",
+        "./assets/images/semiCresent/semiCresentFour.jpg",
+        "./assets/images/semiCresent/semiCresentFive.jpg",
+        "./assets/images/semiCresent/semiCresentSix.jpg",
+        "./assets/images/semiCresent/semiCresentSeven.jpg",
+      ],
+    },
     // Add more projects here
   };
 
